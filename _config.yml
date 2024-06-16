@@ -21,7 +21,7 @@ blog_button:
     description: visit my blog
 
 tag_button:
-    title: tag
+    title: Tag
     description: post tags
     url: 'https://cheriecc.github.io/tag/'  
 
