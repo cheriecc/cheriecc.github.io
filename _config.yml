@@ -1,0 +1,46 @@
+# Basic
+title: Chen Sun
+subtitle: 
+welcome_message: This blog is my personal playground to document my learning journey in the exciting world of frontend tech. Feel free to join me as I explore new concepts, tackle challenges, and (hopefully) share some insights along the way.
+description:  Hi, it's Chen here, a frontend devloper constantly on quest to level up my skills.
+creator: Chen
+
+url: "https://cheriecc.github.io"
+
+permalink: /:year/:month/:title/
+
+# Format
+highlighter: rouge
+
+# supported colors: blue, green, purple, red, orange or slate. If you need clear, leave it empty.
+cover_color: slate
+
+# The blog button should not be removed.
+blog_button:
+    title: Blog
+    description: visit my blog
+
+tag_button:
+    title: tag
+    description: post tags
+    url: 'https://cheriecc.github.io/tag/'  
+
+# Navigation buttons in the front page.
+nav:
+    - {title: Git, description: code repos, url: 'https://github.com/cheriecc'}
+    # - {title: Another Button, description: A button, url: 'http://example.com'}
+
+# Pagination
+plugins: [jekyll-paginate]
+paginate: 10
+paginate_path: "page/:num/"
+
+# Comment
+comment:
+    disqus: 
+    # duoshuo: 
+    
+# Social
+social:
+    github: cheriecc
+    mail: chane.c.sun@gmail.com
